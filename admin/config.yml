@@ -1,0 +1,6 @@
+backend:
+  name: github
+  repo: foodsharing-taiwan/foodsharing-taiwan.github.io
+  branch: master
+
+media_folder: "images/uploads" # Media files will be stored in the repo under images/uploads
