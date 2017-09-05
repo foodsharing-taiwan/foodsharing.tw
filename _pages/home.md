@@ -11,7 +11,7 @@ header:
 
 Foodsharing Taiwan is a grassroots initiative. The goal is to organise redistribution, meaning unconditional sharing, of food waste. We believe that this waste is public property and should be shared in a non-exclusive and non-commercial way.
 
-Our initiative is building upon the already existing initiative Foodsharing Germany. It has so far been successfull with saving tons and tons of food waste and making it possible for more and more people to involve themselves actively in the issues of wasteflow.
+Our initiative is building upon the already existing initiative [Foodsharing Germany](https://foodsharing.de). It has so far been [successful with saving tons and tons of food waste](https://en.wikipedia.org/wiki/Foodsharing.de) and making it possible for more and more people to involve themselves actively in the issues of wasteflow.
 
 ## Who?
 
