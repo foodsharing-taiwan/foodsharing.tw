@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Who we are"
+    url: /
+  - title: "Get active"
+    url: /get-active/
+  - title: "Contact"
+    url: /contact/
+  - title: "Foodsaving Worldwide"
+    url: /foodsaving-worldwide/
