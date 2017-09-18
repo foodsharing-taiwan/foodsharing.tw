@@ -1,7 +1,7 @@
 <div class="page__footer-follow">
   <ul class="social-icons">
-    {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+    {% if site.data.ui-text[page.lang].follow_label %}
+      <li><strong>{{ site.data.ui-text[page.lang].follow_label }}</strong></li>
     {% endif %}
     {% if site.twitter.username %}
       <li><a href="https://twitter.com/{{ site.twitter.username }}"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
@@ -25,4 +25,16 @@
   <a href="https://grants.g0v.tw/power/" target="_blank">
     <img src="https://grants.g0v.tw/images/power/poweredby-square.svg" width="200px" alt="Powered by g0v"/>
   </a>
+</div>
+<div class="lang">
+  LANGUAGE
+  {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+  {% if posts.size == 0 %}
+    {% assign posts=site.pages | where:"ref", page.ref | sort: 'lang' %}
+  {% endif %}
+  <ul>
+    {% for post in posts %}
+      <li><a class="{{ post.lang }}" href="{{ site.base-url }}{{ post.url }}">{{ post.lang }}</a></li>
+    {% endfor %}
+  </ul>
 </div>

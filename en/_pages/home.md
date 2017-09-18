@@ -1,11 +1,12 @@
 ---
-permalink: /
+permalink: /en/
 ref: home
 header:
   image: /assets/images/foodsharing-taiwan-header.jpg
 ---
 
-# __Share food instead of wasting it! 
+
+# Share food instead of wasting it!
 
 ## About us
 
