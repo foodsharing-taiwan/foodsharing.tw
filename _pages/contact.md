@@ -1,5 +1,6 @@
 ---
 permalink: /contact/
+ref: contact
 ---
 
 # 聯絡我們

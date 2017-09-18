@@ -1,16 +1,34 @@
 # main links
-main:
-  - title: "Who we are"
-    url: /
-  - title: "Get active"
-    url: /get-active/
-  - title: "Cooperations"
-    url: /cooperations/
-  - title: "Fridges"
-    url: /fridges/
-  - title: "Events"
-    url: /events/
-  - title: "Contact"
-    url: /contact/
-  - title: "Foodsaving Worldwide"
-    url: /foodsaving-worldwide/
+en:
+  main:
+    - title: "Who we are"
+      url: /en/
+    - title: "Get active"
+      url: /en/get-active/
+    - title: "Cooperations"
+      url: /en/cooperations/
+    - title: "Fridges"
+      url: /en/fridges/
+    - title: "Events"
+      url: /en/events/
+    - title: "Contact"
+      url: /en/contact/
+    - title: "Foodsaving Worldwide"
+      url: /en/foodsaving-worldwide/
+
+zh-TW:
+  main:
+    - title: "我們是誰"
+      url: /
+    - title: "加入我們"
+      url: /get-active/
+    - title: "合作夥伴"
+      url: /cooperations/
+    - title: "享食冰箱"
+      url: /fridges/
+    - title: "近期活動"
+      url: /events/
+    - title: "聯絡我們"
+      url: /contact/
+    - title: "國際享食"
+      url: /foodsaving-worldwide/

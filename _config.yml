@@ -8,7 +8,6 @@
 theme: minimal-mistakes-jekyll
 
 # Site Settings
-locale                   : "en"
 title                    : "Foodsharing Taiwan"
 title_separator          : "-"
 name                     : "Foodsharing Taiwan"
@@ -236,21 +235,21 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+  # en
   - scope:
-      path: ""
-      type: posts
+      path: en
+      type: pages
     values:
+      lang: en
+      base-url: "/en/"
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
-  # _pages
+  # zh
   - scope:
       path: ""
       type: pages
     values:
+      lang: "zh-TW"
+      base-url: "/"
       layout: single
       author_profile: true

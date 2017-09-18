@@ -1,11 +1,9 @@
 ---
-permalink: /foodsaving-worldwide/
+permalink: /en/foodsaving-worldwide/
 ref: foodsaving-worldwide
-header:
+header: 
   image: "/assets/images/foodsaving-worldwide.jpg"
 ---
-
-# 國際享食
 
 Foodsharing Taiwan is part of the foodsaving worldwide network.
 

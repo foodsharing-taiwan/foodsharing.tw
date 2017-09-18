@@ -1,9 +1,9 @@
 ---
 permalink: /
+ref: home
 header:
   image: /assets/images/foodsharing-taiwan-header.jpg
 ---
-
 
 # 分享食物，別浪費
 

@@ -1,5 +1,6 @@
 ---
 permalink: /en/contact/
+ref: contact
 ---
 
 # Contact Us
