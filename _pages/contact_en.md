@@ -1,5 +1,5 @@
 ---
-permalink: /contact_en/
+permalink: /en/contact/
 ---
 
 # Contact Us
