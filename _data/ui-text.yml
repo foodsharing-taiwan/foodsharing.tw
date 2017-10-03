@@ -39,6 +39,7 @@ zh-TW:
   comment_success_msg        : "感謝您的留言！ 審核後將會顯示在站上。"
   comment_error_msg          : "抱歉，部份資料輸入有問題。請確認資料填寫正確後再試一次。"
   loading_label              : "載入中..."
+  lang_label                 : "其他語言:"
 
 # English
 # -----------------
@@ -80,4 +81,5 @@ en:
   comment_success_msg        : "Thanks for your comment! It will show on the site once it has been approved."
   comment_error_msg          : "Sorry, there was an error with your submission. Please make sure all required fields have been completed and try again."
   loading_label              : "Loading..."
+  lang_label                 : "Other Language:"
 
