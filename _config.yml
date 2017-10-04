@@ -8,11 +8,11 @@
 theme: minimal-mistakes-jekyll
 
 # Site Settings
-locale                   : "en"
-title                    : "Foodsharing Taiwan"
+locale                   : "zh-TW"
+title                    : "享食台灣"
 title_separator          : "-"
-name                     : "Foodsharing Taiwan"
-description              : "Save and share leftover food"
+name                     : "享食台灣"
+description              : "搶救與分享剩食"
 url                      : "https://foodsharing.tw"
 baseurl                  : "/"
 repository               : "foodsharing-taiwan/foodsharing.tw"
