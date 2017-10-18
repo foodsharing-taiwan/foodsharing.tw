@@ -1,18 +1,34 @@
 # main links
-main:
-  - title: "關於我"
-    url: 
-  - title: "加入我們"
-    url: get-active/
-  - title: "合作廠商"
-    url: cooperations/
-  - title: "公共冰箱"
-    url: fridges/
-  - title: "活動"
-    url: events/
-  - title: "聯絡我們"
-    url: contact/
-  - title: "享食全球"
-    url: foodsaving-worldwide/
-  - title: "English"
-    url: en/
+en:
+  main:
+    - title: "Who we are"
+      url: /en/
+    - title: "Get active"
+      url: /en/get-active/
+    - title: "Cooperations"
+      url: /en/cooperations/
+    - title: "Fridges"
+      url: /en/fridges/
+    - title: "Events"
+      url: /en/events/
+    - title: "Contact"
+      url: /en/contact/
+    - title: "Foodsaving Worldwide"
+      url: /en/foodsaving-worldwide/
+
+zh-TW:
+ main:
+    - title: "關於我"
+      url: 
+    - title: "加入我們"
+      url: get-active/
+    - title: "合作廠商"
+      url: cooperations/
+    - title: "公共冰箱"
+      url: fridges/
+    - title: "活動"
+      url: events/
+    - title: "聯絡我們"
+      url: contact/
+    - title: "享食全球"
+      url: foodsaving-worldwide/

@@ -1,8 +1,8 @@
 ---
-permalink: /events/
+permalink: /en/events/
 ref: events
 ---
 
-# __Events
+# Events
 
 Here is our recent events and how to get into it!

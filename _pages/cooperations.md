@@ -1,7 +1,8 @@
 ---
 permalink: /cooperations/
+ref: cooperations
 ---
 
-# Cooperations
+# __Cooperations
 
 How to co-op with us...
