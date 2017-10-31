@@ -2,25 +2,25 @@
 en:
   main:
     - title: "Home"
-      url: /en/
+      url: en/
     - title: "About"
-      url: /en/about
+      url: en/about
     - title: "Get active"
-      url: /en/get-active/
+      url: en/get-active/
     - title: "Fridges"
-      url: /en/fridges/
+      url: en/fridges/
     - title: "Community"
-      url: /en/community/
+      url: en/community/
 
 zh-TW:
   main:
     - title: "首頁"
-      url: /
+      url:
     - title: "我們是誰"
-      url: /about
+      url: about
     - title: "加入我們"
-      url: /get-active/
+      url: get-active/
     - title: "享食冰箱"
-      url: /fridges/
-    - title: "Community"
-      url: /community/
+      url: fridges/
+    - title: "社群"
+      url: community/
