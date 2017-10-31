@@ -43,3 +43,9 @@ _(Some more press articles about us could go here)_
 We're happy to announce that Foodsharing Taiwan has been selected in the final round of the 2017 g0v grant!
 
 ![](https://grants.g0v.tw/images/power/poweredby-long.svg)
+
+# Contact Us
+
+If you have any questions, suggestions, comments, advice, thoughts or you just want to share something with us, please get in touch.
+
+[Facebook](https://www.facebook.com/foodsharingtaiwan/){: .btn .btn--info}

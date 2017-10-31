@@ -7,16 +7,10 @@ en:
       url: /en/about
     - title: "Get active"
       url: /en/get-active/
-    - title: "Cooperations"
-      url: /en/cooperations/
     - title: "Fridges"
       url: /en/fridges/
-    - title: "Events"
-      url: /en/events/
-    - title: "Contact"
-      url: /en/contact/
-    - title: "Foodsaving Worldwide"
-      url: /en/foodsaving-worldwide/
+    - title: "Community"
+      url: /en/community/
 
 zh-TW:
   main:
@@ -26,13 +20,7 @@ zh-TW:
       url: /about
     - title: "加入我們"
       url: /get-active/
-    - title: "合作夥伴"
-      url: /cooperations/
     - title: "享食冰箱"
       url: /fridges/
-    - title: "近期活動"
-      url: /events/
-    - title: "聯絡我們"
-      url: /contact/
-    - title: "國際享食"
-      url: /foodsaving-worldwide/
+    - title: "Community"
+      url: /community/
