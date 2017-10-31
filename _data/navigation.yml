@@ -20,7 +20,7 @@ en:
 
 zh-TW:
   main:
-    - title: "HOME"
+    - title: "首頁"
       url: /
     - title: "我們是誰"
       url: /about
