@@ -35,8 +35,12 @@ layout: default
 
       <section class="page__content" itemprop="text">
         {{ content }}
+        {% assign post = site.posts.first %}
+        {% assign content = post.content %}
+        {% include post_detail.html %}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[page.lang].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
-      </section>
+  
+     </section>
 
       <footer class="page__meta">
         {% if site.data.ui-text[page.lang].meta_label %}
