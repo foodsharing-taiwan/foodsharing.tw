@@ -1,4 +1,5 @@
 ---
+layout : index
 permalink: /en/
 ref: home
 header:
