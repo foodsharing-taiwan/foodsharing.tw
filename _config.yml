@@ -253,3 +253,11 @@ defaults:
       base-url: "/"
       layout: single
       author_profile: true
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      lang: "zh_TW"
+      author_profile: true
