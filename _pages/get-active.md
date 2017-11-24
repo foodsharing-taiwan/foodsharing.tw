@@ -7,7 +7,7 @@ ref: get-active
 
 Since April 2016 we are daily picking up food from cooperating stores in Taipei.
 
-People who are interested in picking up food are required to sign a legal agreement (add link) with us accepting our terms and conditions.
+People who are interested in picking up food are required to sign a [legal agreement](https://drive.google.com/file/d/0B3xaZ_QoJKPfdUNjdWxaLVBWNEE/view?usp=sharing) with us accepting our terms and conditions.
 
 Afterwards we will send you a Foodsharing ID, which makes you an official Foodsharing volunteer, a so called Foodsaver. With the ID you will be able to log in into the software and identify yourself as a Foodsaver at our partner stores.
 
@@ -19,8 +19,8 @@ Based on a daily average amount of surplus food of about 3 kg we could save more
 
 We are currently looking for new cooperations and are preparing our new software (KARROT) to help us organise our pick up and manage our cooperations.
 
-If you are interested to join us as a Foodsaver or cooperting food retailer, check out our flyer (add link) and don't hesitate to contact us!
+If you are interested to join us as a Foodsaver or cooperting food retailer, check out our [flyer](https://drive.google.com/file/d/18euS0ouG0ICXgSsL-wmgURj4pKOU_p0b/view?usp=sharing) and don't hesitate to contact us!
 
-We organize our volunteer food pick-ups through [our group on foodsaving.world](https://foodsaving.world/#!/group-info/11).
+We organize our volunteer food pick-ups through [KARROT](https://foodsaving.world/#!/group-info/11).
 
 [Join us!](https://karrot.world/#/groupInfo/11){: .btn .btn--danger}
