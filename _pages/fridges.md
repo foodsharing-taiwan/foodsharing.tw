@@ -5,7 +5,7 @@ ref: fridges
 
 # 享食冰箱
 
-為了讓民眾有一個共同空間可以分享多餘的食物食材以減少浪費、我們成立了享食冰箱。目前第一台冰箱設立於公館[半路咖啡](https://www.facebook.com/groups/FHHWK/)
+為了讓民眾有一個共同空間可以分享多餘的食物食材以減少浪費、我們成立了[享食冰箱](https://drive.google.com/file/d/15cWiWr9Pvj-4s1pPWjtp7dTYd_6uZTGm/view?usp=sharing)。目前第一台冰箱設立於公館[半路咖啡](https://www.facebook.com/groups/FHHWK/)
 
 一個人的力量很小、但是很多人一起就很不一樣！期待更多朋友一起加入享食冰箱行列。如果您有興趣，我們會提供一份「冰箱成家手冊」包含需要的資料及法律相關的協助。
 
