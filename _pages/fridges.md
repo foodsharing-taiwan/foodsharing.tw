@@ -5,11 +5,98 @@ ref: fridges
 
 # 享食冰箱
 
-To enable people in Taiwan to share their surplus food we are setting up public fridges (add link).
+為了讓民眾有一個共同空間可以分享多餘的食物食材以減少浪費、我們成立了享食冰箱。目前第一台冰箱設立於公館[半路咖啡](https://www.facebook.com/groups/FHHWK/)
 
-If you plan to set up a public fridge in your area feel free to get in touch with us and we will try to help you.
+一個人的力量很小、但是很多人一起就很不一樣！期待更多朋友一起加入享食冰箱行列。如果您有興趣，我們會提供一份「冰箱成家手冊」包含需要的資料及法律相關的協助。
 
-Here is a list with current public fridges in Taiwan:
+而除了享食台灣，還有一大群人正在為消滅食物浪費而努力。以下是其他各地食物分享冰箱的名單，現在就到離你家最近的冰箱去看看吧！也歡迎提供給我們遺漏的冰箱資訊。
 
+————
 
+台北市
 
+[享食站 半路咖啡 - Food Hub Halfway Cafe](https://www.facebook.com/groups/FHHWK)
+地址：台北市大安區羅斯福路三段269巷51弄9號一樓
+
+[RobinFood 羅濱富](https://www.facebook.com/Share.RobinFood/)
+地址：台北市大安區仁愛路四段280號8樓（國泰綜合醫院）
+時間：週一至週五 0800-2030
+
+[書屋花甲](https://www.facebook.com/housebook60/)
+地址：台北市中正區中華路二段307巷42號1樓
+
+新營里辦公室
+地址：台北市中正區寧波東街16巷2號
+
+永昌里辦公室
+地址：台北市中正區汀州路1段242巷5號
+
+螢圃里辦公室
+地址：台北市中正區重慶南路3段83巷3號 
+
+梅花里辦公室
+地址：台北市中正區紹興北街23號
+
+頂東里辦公室
+地址：台北市中正區晉江街112巷2弄6號
+
+林興里辦公室
+地址：台北市中正區水源路21號
+
+[社子島愛心free食物銀行](https://www.facebook.com/社子島愛心free食物銀行-392100044493153/)
+地址：福安碼頭7段107巷提防廟宇門口
+
+————
+
+新北市
+
+[板橋愛心free食物銀行](https://www.facebook.com/Love.Free.Food/)
+地址：板橋市莒光路51巷22號
+
+[分享愛社團-板橋愛心冰箱站](https://www.facebook.com/分享愛社團-板橋愛心冰箱站-133147634012858/)
+地址：新北市板橋區僑中一街125巷6弄2號
+時間：0900-2000
+
+[愛心冰箱新莊站](https://www.facebook.com/LOVEREFRIGERATOR/)
+地址：新北市新莊區新北大道七段726號
+
+————
+
+台中市
+
+中華大家功德會：
+台中市南屯區文心南三路536-1號(向心里里辦公室)
+
+中華大家功德會：
+台中市南屯區忠勇路18-10號(春社市場對面)
+
+中華大家功德會：
+台中市大雅區神林南路637號(法老王遊藝場)
+
+————
+
+彰化
+
+中華大家功德會
+彰化縣員林是莒光路513號(員林基督教醫院對面)
+
+————
+
+高雄
+
+[阿榮通訊行 vs.愛心食物冰箱社團](https://www.facebook.com/groups/217928308379515/) 
+地址：高雄市苓雅區光華一路142號
+
+[阿們愛心冰箱(Solidarity Fridge)](https://www.facebook.com/groups/350488518616424/)
+時間：週一至週五 100-1200、1800-1900
+地址：高雄市鳳山區青年路二段518巷5號
+
+幸運草餐飲店
+地址：高雄市楠梓區海專路155號（海科大對面）
+
+————
+
+嘉義
+
+分享愛 愛心冰箱
+地址：嘉義市新民路728巷14號
