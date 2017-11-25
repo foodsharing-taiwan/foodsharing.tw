@@ -21,4 +21,6 @@ ref: get-active
 
 如果你有興趣加入我們成為Foodsaver，或成為我們的合作店家，歡迎聯絡我們（聯絡方式請參見[文宣](https://drive.google.com/file/d/18euS0ouG0ICXgSsL-wmgURj4pKOU_p0b/view?usp=sharing)）。
 
-我們透過[KARROT](https://foodsaving.world/#!/group-info/11)經營我們的志工收取剩食活動。
+我們透過KARROT經營我們的志工收取剩食活動。
+
+[Join us!](https://karrot.world/#/groupInfo/11){: .btn .btn--danger}
