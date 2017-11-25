@@ -18,5 +18,4 @@ Special Thanks
 #我一直以為人類只有一個胃欸（？）
 #廢編不廢。
 
-*Foodsharing Taiwan rocks!*
 ![Foodsharing Taiwan rocks!](/assets/images/23799945_867812803401181_9048026681724072545_o.jpg)
