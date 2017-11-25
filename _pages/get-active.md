@@ -23,4 +23,4 @@ ref: get-active
 
 我們透過KARROT經營我們的志工收取剩食活動。
 
-[Join us!](https://karrot.world/#/groupInfo/11){: .btn .btn--danger}
+[Join us!](https://karrot.world/#/groupInfo/){: .btn .btn--danger}
