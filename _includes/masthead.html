@@ -1,8 +1,8 @@
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
-        <a class="site-title" href="{{ '/' | absolute_url }}">{{ site.title }}</a>
+        <nav id="site-nav" class="greedy-nav"> 
+        <a class="site-title" href="{{domain}}">{{ site.data.ui-text[page.lang].site_title }}</a>
         <ul class="visible-links">
           {% assign links=site.data.navigation[page.lang].main %}
           {% for link in links %}
@@ -13,6 +13,10 @@
             {% endif %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
+    	<!--		{% for lang in site.language %}
+      			<a href="{{ site.baseurl }}{{ post.lang }}" itemprop="sameAs">{{ lang }}</a>
+	    		{% endfor %}-->
+						<li class="masthead__menu-item"><a href="{{ domain }}{{ site.data.ui-text[page.lang].change_lang_url }}">{{ site.data.ui-text[page.lang].change_lang_label }} </a></li>
         </ul>
         <button><div class="navicon"></div></button>
         <ul class="hidden-links hidden"></ul>

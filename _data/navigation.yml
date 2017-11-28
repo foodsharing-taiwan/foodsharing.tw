@@ -1,34 +1,26 @@
 # main links
 en:
   main:
-    - title: "Who we are"
-      url: /en/
+    - title: "Home"
+      url: en
+    - title: "About"
+      url: en/about
     - title: "Get active"
-      url: /en/get-active/
-    - title: "Cooperations"
-      url: /en/cooperations/
+      url: en/get-active
     - title: "Fridges"
-      url: /en/fridges/
-    - title: "Events"
-      url: /en/events/
-    - title: "Contact"
-      url: /en/contact/
-    - title: "Foodsaving Worldwide"
-      url: /en/foodsaving-worldwide/
+      url: en/fridges
+    - title: "Community"
+      url: en/community
 
 zh-TW:
- main:
-    - title: "關於我"
-      url: 
+  main:
+    - title: "首頁"
+      url:
+    - title: "我們是誰"
+      url: about
     - title: "加入我們"
-      url: get-active/
-    - title: "合作廠商"
-      url: cooperations/
-    - title: "公共冰箱"
-      url: fridges/
-    - title: "活動"
-      url: events/
-    - title: "聯絡我們"
-      url: contact/
-    - title: "享食全球"
-      url: foodsaving-worldwide/
+      url: get-active
+    - title: "享食冰箱"
+      url: fridges
+    - title: "社群"
+      url: community

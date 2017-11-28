@@ -2,6 +2,7 @@
 
 # Taiwan (Traditional Chinese - Default)
 zh-TW:
+  site_title : "享食台灣"
   page                       : "頁面"
   pagination_previous        : "較舊"
   pagination_next            : "較新"
@@ -40,10 +41,13 @@ zh-TW:
   comment_error_msg          : "抱歉，部份資料輸入有問題。請確認資料填寫正確後再試一次。"
   loading_label              : "載入中..."
   lang_label                 : "其他語言:"
+  change_lang_label          : "EN"
+  change_lang_url          	 : "en/"
 
 # English
 # -----------------
 en:
+  site_title: "Foodsharing Taiwan"
   page                       : "Page"
   pagination_previous        : "Previous"
   pagination_next            : "Next"
@@ -82,4 +86,5 @@ en:
   comment_error_msg          : "Sorry, there was an error with your submission. Please make sure all required fields have been completed and try again."
   loading_label              : "Loading..."
   lang_label                 : "Other Language:"
-
+  change_lang_label          : "中文"
+  change_lang_url          	 : ""

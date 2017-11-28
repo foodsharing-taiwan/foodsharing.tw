@@ -5,6 +5,8 @@ header:
   image: "/assets/images/foodsaving-worldwide.jpg"
 ---
 
-__Foodsharing Taiwan is part of the foodsaving worldwide network.
+# 國際享食
+
+Foodsharing Taiwan is part of the foodsaving worldwide network.
 
 For more information, visit their [info page on yunity.org](https://yunity.org/en/foodsaving-worldwide) or [foodsaving.world](https://foodsaving.world).
