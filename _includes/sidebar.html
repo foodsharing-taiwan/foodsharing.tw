@@ -1,0 +1,25 @@
+<div class="sidebar sticky">
+		<p class="author__bio" itemprop="description">
+			{{ site.author.bio }}
+		</p>
+		<div class="author__urls-wrapper">
+			<ul class="author__urls social-icons">
+    		{% if site.twitter.username %}
+      		<li><a href="https://twitter.com/{{ site.twitter.username }}" itemprop="sameAs"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+    		{% endif %}
+    		{% if site.facebook.username %}
+      		<li><a href="https://facebook.com/{{ site.facebook.username }}" itemprop="sameAs"><i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+    		{% endif %}
+    		{% if site.author.github %}
+      		<li><a href="http://github.com/{{ site.author.github }}" itemprop="sameAs"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+    		{% endif %}
+    		{% if site.author.gitlab %}
+      		<li><a href="http://gitlab.com/{{ site.author.gitlab }}" itemprop="sameAs"><i class="fa fa-fw fa-gitlab" aria-hidden="true"></i> Gitlab</a></li>
+    		{% endif %}
+    		{% if site.author.bitbucket %}
+      		<li><a href="http://bitbucket.org/{{ site.author.bitbucket }}" itemprop="sameAs"><i class="fa fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
+    		{% endif %}
+				<li><a href="http://googel.com/" itemprop="sameAs">Google</a></li>
+			</ul>
+		</div>
+</div>
