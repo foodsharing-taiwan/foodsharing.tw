@@ -2,7 +2,6 @@
 en:
   main:
     - title: "Home"
-<<<<<<< HEAD
       url: en
     - title: "About"
       url: en/about
@@ -12,17 +11,6 @@ en:
       url: en/fridges
     - title: "Community"
       url: en/community
-=======
-      url: en/
-    - title: "About"
-      url: en/about
-    - title: "Get active"
-      url: en/get-active/
-    - title: "Fridges"
-      url: en/fridges/
-    - title: "Community"
-      url: en/community/
->>>>>>> upstream/master
 
 zh-TW:
   main:
@@ -31,16 +19,8 @@ zh-TW:
     - title: "我們是誰"
       url: about
     - title: "加入我們"
-<<<<<<< HEAD
       url: get-active
     - title: "享食冰箱"
       url: fridges
     - title: "社群"
       url: community
-=======
-      url: get-active/
-    - title: "享食冰箱"
-      url: fridges/
-    - title: "社群"
-      url: community/
->>>>>>> upstream/master
