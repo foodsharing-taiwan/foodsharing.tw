@@ -261,5 +261,3 @@ defaults:
       layout: single
       lang: "zh_TW"
       author_profile: true
-
-#language: ['en', 'zh_TW']
