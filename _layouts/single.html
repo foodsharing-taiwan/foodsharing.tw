@@ -15,8 +15,8 @@ layout: default
 {% endif %}
 
 <div id="main" role="main">
-	{% if page.ref == "fridges" %}
-		{% include sidebar_fridge.html %}
+	{% if site.custom_sidebar contains page.ref %}
+		{% include sidebar_{{page.ref}}.html %}
 	{% else %}
 		{% include sidebar.html %}
 	{% endif %}

@@ -43,6 +43,9 @@ zh-TW:
   lang_label                 : "其他語言:"
   change_lang_label          : "EN"
   change_lang_url          	 : "en/"
+  sidebar_title_get_active 	 : "享食店家"
+  sidebar_title_community 	 : "合作夥伴"
+  sidebar_title_fridges   	 : "在地享食冰箱"
 
 # English
 # -----------------
@@ -88,3 +91,6 @@ en:
   lang_label                 : "Other Language:"
   change_lang_label          : "中文"
   change_lang_url          	 : ""
+  sidebar_title_get_active 	 : "Stores saving food with us"
+  sidebar_title_community 	 : "Our Partners"
+  sidebar_title_fridges   	 : "Public Fridges in Taiwan"
