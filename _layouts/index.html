@@ -32,9 +32,9 @@ layout: default
           {% endif %}
         </header>
       {% endunless %}
-
+<h1> Lang2: {{ page.lang }} {{ site.posts.size }} </h1>
 	{% assign posts = site.posts | where "lang" , page.lang %}    
-	    <h1> Lang: {{ page.lang }} {{ site.posts.size }} {{ posts.size }}
+	    <h1> Lang: {{ page.lang }} {{ site.posts.size }} {{ posts.size }} </h1>
 	{% for post in posts %} 
 	    {% assign content = post.content %}
      	<section class="page__content" itemprop="text">
