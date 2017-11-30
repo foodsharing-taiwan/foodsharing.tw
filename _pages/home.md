@@ -1,6 +1,6 @@
 ---
 layout : index
-permalink: /home
+permalink: 
 ref: home
 header:
     image: /assets/images/foodsharing-taiwan-header.jpg
@@ -8,5 +8,4 @@ header:
 
 # Home
 
-blabla
 
