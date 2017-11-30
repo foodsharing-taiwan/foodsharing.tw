@@ -1,6 +1,7 @@
 ---
 permalink: /en/fridges/
 ref: fridges
+lang: en
 ---
 
 # Fridges
