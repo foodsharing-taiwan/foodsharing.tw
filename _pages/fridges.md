@@ -25,14 +25,14 @@ Foodsharing Taiwan[享食冰箱](https://drive.google.com/file/d/15cWiWr9Pvj-4s1
 
 台北市
 
-享食站 半路咖啡 - Food Hub Halfway Cafe 
+[享食站 半路咖啡 - Food Hub Halfway Cafe](https://www.facebook.com/groups/FHHWK) 
 <br />地址：台北市大安區羅斯福路三段269巷51弄9號一樓
 
-RobinFood 羅濱富 
+[RobinFood 羅濱富](https://www.facebook.com/Share.RobinFood/) 
 <br />地址：台北市大安區仁愛路四段280號8樓（國泰綜合醫院） 
 <br />時間：週一至週五 0800-2030
 
-書屋花甲 
+[書屋花甲](https://www.facebook.com/housebook60/) 
 <br />地址：台北市中正區中華路二段307巷42號1樓
 
 新營里辦公室 
@@ -53,21 +53,22 @@ RobinFood 羅濱富
 林興里辦公室 
 <br />地址：台北市中正區水源路21號
 
-社子島愛心free食物銀行 
+[社子島愛心free食物銀行](https://www.facebook.com/392100044493153/)
 <br />地址：福安碼頭7段107巷提防廟宇門口
 
 ————
 
 新北市
 
-板橋愛心free食物銀行 
+[板橋愛心free食物銀行](https://www.facebook.com/Love.Free.Food/) 
 <br />地址：板橋市莒光路51巷22號
 
-分享愛社團-板橋愛心冰箱站 
+[分享愛社團-板橋愛心冰箱站](https://www.facebook.com/133147634012858/)
 <br />地址：新北市板橋區僑中一街125巷6弄2號 
 <br />時間：0900-2000
 
-愛心冰箱新莊站 地址：新北市新莊區新北大道七段726號
+[愛心冰箱新莊站](https://www.facebook.com/LOVEREFRIGERATOR/)
+<br />地址：新北市新莊區新北大道七段726號
 
 ————
 
@@ -95,14 +96,14 @@ RobinFood 羅濱富
 
 高雄
 
-阿榮通訊行 vs.愛心食物冰箱社團 
+[阿榮通訊行 vs.愛心食物冰箱社團](https://www.facebook.com/groups/217928308379515/) 
 <br />地址：高雄市苓雅區光華一路142號
 
 阿們愛心冰箱(Solidarity Fridge) 
 <br />地址：高雄市鳳山區青年路二段518巷5號
 <br />時間：週一至週五 100-1200、1800-1900
  
-幸運草餐飲店 
+[幸運草餐飲店](https://www.facebook.com/groups/350488518616424/) 
 <br />地址：高雄市楠梓區海專路155號（海科大對面）
 
 ————
