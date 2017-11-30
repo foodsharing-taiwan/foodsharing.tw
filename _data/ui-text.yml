@@ -41,6 +41,11 @@ zh-TW:
   comment_error_msg          : "抱歉，部份資料輸入有問題。請確認資料填寫正確後再試一次。"
   loading_label              : "載入中..."
   lang_label                 : "其他語言:"
+  change_lang_label          : "EN"
+  change_lang_url          	 : "en/"
+  sidebar_title_get_active 	 : "享食店家"
+  sidebar_title_community 	 : "合作夥伴"
+  sidebar_title_fridges   	 : "在地享食冰箱"
 
 # English
 # -----------------
@@ -84,4 +89,8 @@ en:
   comment_error_msg          : "Sorry, there was an error with your submission. Please make sure all required fields have been completed and try again."
   loading_label              : "Loading..."
   lang_label                 : "Other Language:"
-
+  change_lang_label          : "中文"
+  change_lang_url          	 : ""
+  sidebar_title_get_active 	 : "Stores saving food with us"
+  sidebar_title_community 	 : "Our Partners"
+  sidebar_title_fridges   	 : "Public Fridges in Taiwan"

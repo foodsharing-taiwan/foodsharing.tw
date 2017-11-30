@@ -261,3 +261,6 @@ defaults:
       layout: single
       lang: "zh_TW"
       author_profile: true
+
+custom_sidebar: ['fridges', 'get-active', 'community']
+#language: ['en', 'zh_TW']
