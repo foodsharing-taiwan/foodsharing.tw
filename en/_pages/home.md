@@ -7,6 +7,3 @@ header:
 ---
 
 Home
-
-
-blabla
