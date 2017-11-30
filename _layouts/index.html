@@ -34,7 +34,7 @@ layout: default
       {% endunless %}
 
 	{% assign posts = site.posts | where "lang" , page.lang %}    
-	    
+	    <h1> Lang: {{ page.lang }} {{ site.posts.size }} {{ posts.size }}
 	{% for post in posts %} 
 	    {% assign content = post.content %}
      	<section class="page__content" itemprop="text">
