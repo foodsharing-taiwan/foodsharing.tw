@@ -108,5 +108,5 @@ Foodsharing Taiwan[享食冰箱](https://drive.google.com/file/d/15cWiWr9Pvj-4s1
 
 嘉義
 
-<br />分享愛 愛心冰箱
+分享愛 愛心冰箱
 <br />地址：嘉義市新民路728巷14號
