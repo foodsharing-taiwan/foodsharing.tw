@@ -1,6 +1,7 @@
 ---
 permalink: /en/get-active/
 ref: get-active
+lang: en
 ---
 
 # How to get active
