@@ -1,5 +1,5 @@
 ---
-layout : single
+layout : index
 permalink: "/"
 ref: home
 header:
