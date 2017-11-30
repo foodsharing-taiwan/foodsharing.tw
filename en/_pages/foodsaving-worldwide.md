@@ -1,6 +1,7 @@
 ---
 permalink: /en/foodsaving-worldwide/
 ref: foodsaving-worldwide
+lang: en
 header: 
   image: "/assets/images/foodsaving-worldwide.jpg"
 ---
