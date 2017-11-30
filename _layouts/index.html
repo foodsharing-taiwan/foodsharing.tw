@@ -33,7 +33,19 @@ layout: default
         </header>
       {% endunless %}
 
-	    
+	{% for post in site.posts %} 
+	    {% assign content = post.content %}
+     	<section class="page__content" itemprop="text">
+        	<h1 class="entry-title">
+          	{% if page.title %}
+           		<a href="{{ root_url }}{{ page.url }}">{{ page.title }}</a>
+          	{% endif %}
+          	{% if post.title %}
+            	<a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
+          	{% endif %}
+        	</h1>
+        	<div class="entry-content">{{ content }}</div>
+    {% endfor %}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[page.lang].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
   
      </section>
@@ -52,7 +64,7 @@ layout: default
 
       {% if page.share %}{% include social-share.html %}{% endif %}
 
-      
+      {% include post_pagination.html %}
     </div>
 
     {% if site.comments.provider and page.comments %}
@@ -61,5 +73,14 @@ layout: default
   </article>
 
   {% comment %}<!-- only show related on a post page when not disabled -->{% endcomment %}
- 
+  {% if page.id and page.related and site.related_posts.size > 0 %}
+    <div class="page__related">
+      <h4 class="page__related-title">{{ site.data.ui-text[page.lang].related_label | default: "You May Also Enjoy" }}</h4>
+      <div class="grid__wrapper">
+        {% for post in site.related_posts limit:4 %}
+          {% include archive-single.html type="grid" %}
+        {% endfor %}
+      </div>
+    </div>
+  {% endif %}
 </div>
