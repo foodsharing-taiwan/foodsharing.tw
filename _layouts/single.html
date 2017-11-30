@@ -38,7 +38,7 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
-        
+        {{ content }}
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[page.lang].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
   
