@@ -33,7 +33,8 @@ layout: default
         </header>
       {% endunless %}
 
-	{% for post in site.posts %} 
+  {% assign posts = site.posts | where:"lang", page.lang %}
+	{% for post in posts %} 
 	    {% assign content = post.content %}
      	<section class="page__content" itemprop="text">
         	<h1 class="entry-title">

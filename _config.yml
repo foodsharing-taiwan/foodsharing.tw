@@ -259,16 +259,6 @@ defaults:
       type: posts
     values:
       layout: single
-      lang: "zh_TW"
-      author_profile: true
-      
-  # en _posts    
-      - scope:
-      path: en
-      type: posts
-    values:
-      layout: single
-      lang: en
       author_profile: true
 
 custom_sidebar: ['fridges', 'get-active', 'community']

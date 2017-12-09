@@ -1,0 +1,16 @@
+{% include base_path %}
+
+{% if page.previous.previous or page.next.next %}
+  <nav class="pagination">
+	{% if page.previous.previous %}
+		<a href="{{ base_path }}{{ page.previous.previous.url }}" class="pagination--pager" title="{{ page.previous.previous.title | markdownify | strip_html }}">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a>
+	{% else %}
+		<a href="#" class="pagination--pager disabled">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a>
+	{% endif %}
+	{% if page.next.next %}
+		<a href="{{ base_path }}{{ page.next.next.url }}" class="pagination--pager" title="{{ page.next.next.title | markdownify | strip_html }}">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }}</a>
+	{% else %}
+		<a href="#" class="pagination--pager disabled">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }}</a>
+	{% endif %}
+	</nav>
+{% endif %}
