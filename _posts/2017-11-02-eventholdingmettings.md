@@ -2,6 +2,7 @@
 layout : single
 title : "Event Holding Meetings"
 date : 2017-11-02
+lang : zh-TW
 categories : blog
 ---
 

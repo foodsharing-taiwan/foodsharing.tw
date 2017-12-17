@@ -2,6 +2,7 @@
 layout : single
 title : "g0v 2017 Nov Hackerthon"
 date : 2017-11-15
+lang : zh-TW
 categories : blog
 ---
 

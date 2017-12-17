@@ -2,6 +2,7 @@
 layout : single
 title : "Foodsharing Taiwan"
 date : 2017-11-25
+lang : zh-TW
 categories : blog
 ---
 
