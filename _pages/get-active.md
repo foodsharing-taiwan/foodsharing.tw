@@ -17,10 +17,15 @@ ref: get-active
 
 根據統計，烘培店每日平均剩食3公斤，所以我們每年避免了超過一公噸（1000公斤）的食物浪費。
 
-我們正在尋找新合作店家，並籌備我們的新軟體KARROT，以協助我們有效率的經營我們的收取食物活動，與合作事宜。
+我們正在尋找新合作店家，並籌備我們的新軟體，以協助我們有效率的經營我們的收取食物活動，與合作事宜。
 
 如果你有興趣加入我們成為Foodsaver，或成為我們的合作店家，歡迎聯絡我們（聯絡方式請參見[文宣](https://drive.google.com/file/d/18euS0ouG0ICXgSsL-wmgURj4pKOU_p0b/view?usp=sharing)）。
 
-我們透過KARROT經營我們的志工收取剩食活動。
+為了協助志工們協力合作、收取剩食，我們建立了網站來協助大家彼此管理、合作。但目前網站仍在開發中。
 
-[Join us!](https://karrot.world/#/groupInfo/){: .btn .btn--danger}
+同時，我們希望你們能嘗試使用這個網站，並把使用體驗後的心得回饋給我們！
+<br />1.) 點擊前往 https://dev.karrot.world/#/groupPreview/25
+<br />2.) 輸入密碼: foodsharingtaiwan
+<br />3.) 創建帳號/ 或登入
+
+[Join us!](https://dev.karrot.world/#/groupPreview/25){: .btn .btn--danger}
