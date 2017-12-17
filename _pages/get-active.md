@@ -24,8 +24,15 @@ ref: get-active
 為了協助志工們協力合作、收取剩食，我們建立了網站來協助大家彼此管理、合作。但目前網站仍在開發中。
 
 同時，我們希望你們能嘗試使用這個網站，並把使用體驗後的心得回饋給我們！
-<br />1.) 點擊前往 https://dev.karrot.world/#/groupPreview/25
+<br />1.) 點擊前往 [Join us!](https://dev.karrot.world/#/groupPreview/25){: .btn .btn--danger}
 <br />2.) 輸入密碼: foodsharingtaiwan
 <br />3.) 創建帳號/ 或登入
 
-[Join us!](https://dev.karrot.world/#/groupPreview/25){: .btn .btn--danger}
+如果你有任何疑問或回饋，歡迎告知我們！我們希望能儘速找到新的合作店家、招募志工、並實際使用這個網站來管理剩食！
+另外，我們也持續開發行動版的「享食台灣APP」!
+
+如果您願意提供不同形式的協助，歡迎直接私訊我們！🤝
+
+❤️ Supported by [g0v.tw](https://grants.g0v.tw/power/) 🙏🏻
+
+
