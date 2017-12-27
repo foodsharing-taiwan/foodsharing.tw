@@ -5,7 +5,7 @@ ref: fridges
 
 # 享食冰箱
 
-Foodsharing Taiwan[享食冰箱](https://drive.google.com/file/d/15cWiWr9Pvj-4s1pPWjtp7dTYd_6uZTGm/view?usp=sharing)
+Foodsharing Taiwan[享食冰箱](https://drive.google.com/file/d/1evJiDrrEHRk-LBWZsMV1LHHm6x63NhGe/view?usp=sharing)
 
 歐洲近年來不斷有人呼籲重視食物浪費，例如德國、西班牙、丹麥...等國家都開始與商家合作，在城市街頭設置享食冰箱讓民眾免費交換無法消耗的食品及食材；而在2013年德國的享食冰箱就成功減少了約一千噸的食物浪費。享食冰箱的設置屬善意無償的行為：對其中食物沒有檢測及維護品質的責任；拿取者需要自行評斷食物品質，並同意自己負責食用後之風險。
 
@@ -77,6 +77,9 @@ Foodsharing Taiwan[享食冰箱](https://drive.google.com/file/d/15cWiWr9Pvj-4s1
 ————
 
 台中市
+
+[共享冰箱 Food Sharing Station@自己的房間](https://www.facebook.com/groups/275738656282978/)
+<br />地址：台中市五權西路一段71巷3弄1號 (國美館對面 五權西三街13號與15號中間的通道進入)
 
 [中華大家功德會](http://www.dajia.org.tw/RWD01/OnePage.aspx?tid=89)
 <br />地址：台中市南屯區文心南三路536-1號(向心里里辦公室)
