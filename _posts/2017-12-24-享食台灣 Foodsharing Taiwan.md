@@ -19,6 +19,6 @@ categories : blog
 
 如果您願意提供不同形式的協助，歡迎直接私訊我們！🤝
 
-{% include youtubePlayer.html id=ScsPIK9NJ1U?start=312&end=478&version=3 %} or {% include youtubePlayer.html id="ScsPIK9NJ1U?start=312&end=478&version=3" %}
+{% include youtubePlayer.html id='ScsPIK9NJ1U?start=312&end=478&version=3' %}
 
 Supported by g0v.tw https://grants.g0v.tw/power/ 
