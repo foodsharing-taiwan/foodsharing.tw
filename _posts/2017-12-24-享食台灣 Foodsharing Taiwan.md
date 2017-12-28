@@ -1,7 +1,7 @@
 ---
 layout : single
 title : "享食台灣 Foodsharing Taiwan"
-date : 2017-10-24
+date : 2017-12-24
 lang : zh-TW
 categories : blog
 ---
@@ -17,8 +17,8 @@ categories : blog
 
 我們希望能儘速找到新的合作店家、招募志工、能在舉辦更多活動，將食物浪費的嚴重性宣導給更多人知道，集結更多團體一起解決食物浪費問題。
 
-如果您願意提供不同形式的協助，歡迎直接私訊我們！🤝
+如果您願意提供不同形式的協助，歡迎直接私訊我們！
 
 {% include youtubePlayer.html id='ScsPIK9NJ1U?start=312&end=478&version=3' %}
 
-Supported by g0v.tw https://grants.g0v.tw/power/ 
+Supported by [g0v.tw](https://grants.g0v.tw/power/) 
