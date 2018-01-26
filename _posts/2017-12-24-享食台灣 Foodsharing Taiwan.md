@@ -19,6 +19,7 @@ categories : blog
 
 如果您願意提供不同形式的協助，歡迎直接私訊我們！
 
+[享食台灣 Foodsharing Taiwan](https://www.facebook.com/foodsharingtaiwan) on Facebook!
+
 {% include youtubePlayer.html id='ScsPIK9NJ1U?start=312&end=478&version=3' %}
 
-Supported by [g0v.tw](https://grants.g0v.tw/power/) 
