@@ -23,3 +23,7 @@ categories : blog
 
 {% include youtubePlayer.html id='ScsPIK9NJ1U?start=312&end=478&version=3' %}
 
+
+
+
+
