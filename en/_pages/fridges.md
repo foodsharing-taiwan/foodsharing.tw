@@ -6,14 +6,14 @@ lang: en
 
 # Fridges
 
-To enable people in Taiwan to share their surplus food we are setting up public fridges (add link).
+To enable people in Taiwan to share their surplus food we are setting up public fridges [Flyer in Chinese](https://drive.google.com/file/d/1evJiDrrEHRk-LBWZsMV1LHHm6x63NhGe/view?usp=sharing).
 
 If you plan to set up a public fridge in your area feel free to get in touch with us and we will try to help you.
 
 Here is a list with current public fridges in Taiwan:
 
 
-台北市
+台北市-Taipei
 
 享食站 半路咖啡 - Food Hub Halfway Cafe 地址：台北市大安區羅斯福路三段269巷51弄9號一樓
 
@@ -37,7 +37,7 @@ RobinFood 羅濱富 地址：台北市大安區仁愛路四段280號8樓（國�
 
 ————
 
-新北市
+新北市-New Taipei City
 
 板橋愛心free食物銀行 地址：板橋市莒光路51巷22號
 
@@ -47,7 +47,7 @@ RobinFood 羅濱富 地址：台北市大安區仁愛路四段280號8樓（國�
 
 ————
 
-台中市
+台中市-Taichung
 
 中華大家功德會： 台中市南屯區文心南三路536-1號(向心里里辦公室)
 
@@ -57,13 +57,13 @@ RobinFood 羅濱富 地址：台北市大安區仁愛路四段280號8樓（國�
 
 ————
 
-彰化
+彰化-Changhua
 
 中華大家功德會 彰化縣員林是莒光路513號(員林基督教醫院對面)
 
 ————
 
-高雄
+高雄-Kaohsiung
 
 阿榮通訊行 vs.愛心食物冰箱社團 地址：高雄市苓雅區光華一路142號
 
@@ -73,6 +73,6 @@ RobinFood 羅濱富 地址：台北市大安區仁愛路四段280號8樓（國�
 
 ————
 
-嘉義
+嘉義-Chiayi
 
 分享愛 愛心冰箱 地址：嘉義市新民路728巷14號
