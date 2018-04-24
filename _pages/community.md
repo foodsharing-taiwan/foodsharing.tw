@@ -11,13 +11,17 @@ Foodsharing Taiwan的理念是：集合大家的力量，共同解決台灣食�
 
 如果你對與我們合作有興趣，歡迎聯絡我們。
 
-我們最近參與的[event](https://www.facebook.com/events/1488546647928864/)如下:
+合作夥伴:
 
-[Pick Food Up 扌合 生態廚房](https://www.facebook.com/pickfoodup/)
+🍉 [Pick Food Up 扌合 生態廚房](https://www.facebook.com/pickfoodup/)
 
-[格外有意思](https://www.facebook.com/ProjectOffGrades/)
+🍉 [格外有意思](https://www.facebook.com/ProjectOffGrades/)
 
-[廢青不廢](https://www.facebook.com/TWZeroWasteYouth/)（共同合辦）
+🍉 [廢青不廢 共同合辦](https://www.facebook.com/TWZeroWasteYouth/)
+
+🍉 [人生百味](https://www.facebook.com/Do.you.a.flavor/)
+
+🍉 [Greenpeace Taiwan 綠色和平](http://www.greenpeace.org/taiwan/zh/)
 
 我們希望能在舉辦更多活動，將食物浪費的嚴重性宣導給更多人知道，集結更多團體一起解決食物浪費問題。
 
