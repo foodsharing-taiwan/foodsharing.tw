@@ -24,6 +24,6 @@ Please don’t hesitate to contact us, we are always glad to hear from you!
 
 Send us an email to foodsharingtaiwan@gmail.com or check out our fb page [享食台灣 Foodsharing Taiwan](https://www.facebook.com/foodsharingtaiwan/)
 
-{% include youtubePlayer.html id=' qSoppp86j4k' %}
+{% include youtubePlayer.html id='qSoppp86j4k' %}
 
 
