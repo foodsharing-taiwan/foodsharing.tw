@@ -27,3 +27,13 @@ Send us an email to foodsharingtaiwan@gmail.com or check out our fb page [享食
 {% include youtubePlayer.html id='qSoppp86j4k' %}
 
 
+We hold various events at different venues, including activities such as distribution of our saved surplus food, talks, presentations, movie screening, volunteer recruitments, cooking acitivties with suplus incredients and so on.
+
+A short report about one of our events by TAIPEI TIMES in English language can be found [here](http://www.taipeitimes.com/News/taiwan/archives/2017/11/25/2003682896) 
+
+
+
+![Foodsharing Taiwan rocks!](/assets/images/23799945_867812803401181_9048026681724072545_o.jpg)
+
+![Foodsharing Taiwan rocks!](/assets/images/FS_school.jpg)
+
