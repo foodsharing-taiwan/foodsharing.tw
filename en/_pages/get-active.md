@@ -14,8 +14,8 @@ Afterwards we will send you a Foodsharing ID, which makes you an official Foodsh
 
 If there are cooperating stores in your neighbourhood you can just start pick up food there or help us to set up new cooperations.
 
-Since the beginning in April 2016 we were able to daily pick up surplus food, that otherwise would have been wasted, at a cooperating bakery. Based on a daily average amount of surplus food of about 3 kg we could save more than ONE TON (1000 kg) of food from one bakery in one year. An impressive number!
+Since the beginning in April 2016 we were able to daily pick up surplus food, that otherwise would have been wasted, at a cooperating bakery. Based on the statistics on our daily pick-ups in Taipei we have saved hundreds of kilograms of surplus food already.
 
-We are currently looking for new cooperations and are preparing our new software [KARROT](https://dev.karrot.world/#/groupPreview) to help us organise our pick ups and manage our cooperations.
+We are currently looking for new cooperations and are preparing our new software to help us organise our pick ups and manage our cooperations.
 
 If you are interested to join us as a Foodsaver or cooperting food retailer, check out our [Foodsharing Flyer](https://www.dropbox.com/s/2ccrvez1mopem79/FS%20Taiwan%20flyer%20051416_eng.pdf?dl=0) and don’t hesitate to contact us!
