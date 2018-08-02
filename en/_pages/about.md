@@ -37,13 +37,7 @@ We would like to invite you to join the Foodsharing movement in Taiwan and we ar
 [TheNewsLens](https://international.thenewslens.com/article/69949) (engl)
 [Beyonder Times](http://beyondertimes.com/?p=1036) (cn)
 
-_(Some more press articles about us could go here)_
 
-## Sponsors
-
-We're happy to announce that Foodsharing Taiwan has been selected in the final round of the 2017 g0v grant!
-
-![](https://grants.g0v.tw/images/power/poweredby-long.svg)
 
 # Contact Us
 
