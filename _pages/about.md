@@ -30,15 +30,7 @@ header:
 [TheNewsLens](https://international.thenewslens.com/article/69949) (engl)
 [Beyonder Times](http://beyondertimes.com/?p=1036) (cn)
 
-_(Some more press articles about us could go here)_
-
-## 贊助
-
-我們欣喜萬分的宣布我們在2017秋季的g0v公民科技獎助金提案競賽過關斬將進入決選圈最後獲獎！
-
-![](https://grants.g0v.tw/images/power/poweredby-long.svg)
-
-# 聯絡我們
+## 聯絡我們
 
 如果您有任何問題、建議、評論、忠告、想法或您只是想分享一些經驗，可透過下面方式聯繫我們
 
