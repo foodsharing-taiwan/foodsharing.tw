@@ -26,6 +26,7 @@ Send us an email to foodsharingtaiwan@gmail.com or check out our fb page [享食
 
 {% include youtubePlayer.html id='qSoppp86j4k' %}
 
+<br />
 
 We hold various events at different venues, including activities such as distribution of our saved surplus food, talks, presentations, movie screening, volunteer recruitments, cooking acitivties with suplus incredients and so on.
 
