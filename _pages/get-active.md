@@ -17,24 +17,12 @@ ref: get-active
 透過每個月排定班表，由惜食者到享食台灣的合作店家拿取剩食。
 惜食者可以自己決定要怎麼處理食物：自己食用、分享給親友或有需要的人、放到鄰近的共享冰箱等等，但絕不會有金錢交易 !
 
-1. 認識享食台灣 Foodsharing：懶人包[【 Foodsharing 吃貨夥伴募集中！ 】](https://www.facebook.com/foodsharingtaiwan/photos/?tab=album&album_id=2007658386118924)
-2. 報名申請成為惜食者Foodsaver，等待享食台灣審核通過。
-3. 確認惜食者的權益與義務，與我們簽訂[法律協議與條款](https://drive.google.com/file/d/0B3xaZ_QoJKPfdUNjdWxaLVBWNEE/view)。
-4. 之後，你將取得一個享食ID（Foodsharing ID），正式成為享食台灣的吃貨夥伴「Foodsaver（惜食者）」！
+1. [看一下「Foodsaver（惜食者）公告」](https://www.facebook.com/foodsharingtaiwan/photos/?tab=album&album_id=2007658386118924)與 [報名「Foodsaver（惜食者）」](https://goo.gl/forms/Y5j8UTvjZtkVpt643): 申請成為惜食者Foodsaver(確認惜食者的權益與義務&簽訂法律協議與條款)，等待享食台灣審核通過。
+2. 之後，你將取得一個享食ID（Foodsharing ID），正式成為享食台灣的吃貨夥伴「Foodsaver（惜食者）」！
 
 你可以使用此ID登入軟體，以惜食者身份參與討論及排班。
 如果你附近已有合作店家，你便可立刻開始前往收取剩食。
 （你也可以協助邀請店家成為新的合作夥伴！請參考下方店家夥伴招募說明。）
-
-為了協助志工們協力合作、收取剩食，我們建立了網站來協助大家彼此管理、合作。但目前網站仍在開發中。
-同時，我們希望你們能嘗試使用這個網站，並把使用體驗後的心得回饋給我們！
-
-<br />1.) 點擊前往 [Join us!](https://dev.karrot.world/#/groupPreview/25){: .btn .btn--danger}
-<br />2.) 輸入密碼: foodsharingtaiwan
-<br />3.) 創建帳號/ 或登入
-
-如果你有任何疑問或回饋，歡迎告知我們！
-我們希望能儘速找到新的合作店家、招募志工、並實際使用這個網站來管理剩食！
 
 
 # 我是店家，想成為享食台灣的夥伴！
@@ -76,4 +64,3 @@ Facebook [粉絲專頁](https://www.facebook.com/foodsharingtaiwan/)「傳送訊
 <br />Email 來信 foodsharing.taiwan@gmail.com
 
 
-❤️ Supported by [g0v.tw](https://grants.g0v.tw/power/) 🙏🏻  
