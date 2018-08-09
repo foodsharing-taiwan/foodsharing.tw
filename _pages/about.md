@@ -2,7 +2,7 @@
 permalink: /about
 ref: about
 header:
-  image: /assets/images/foodsharing-taiwan-header.jpg
+  image: /assets/images/Foodsharing Banner.jpg
 ---
 
 # 分享食物，別浪費
