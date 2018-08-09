@@ -3,7 +3,7 @@ permalink: /en/about
 ref: about
 lang: en
 header:
-  image: /assets/images/foodsharing-taiwan-header.jpg
+  image: /assets/images/Foodsharing Banner.jpg
 ---
 
 
