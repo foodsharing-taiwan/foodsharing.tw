@@ -15,7 +15,7 @@ description              : "Save and share leftover food"
 url                      : "https://foodsharing.tw"
 baseurl                  : "/"
 repository               : "foodsharing-taiwan/foodsharing.tw"
-teaser                   : "/assets/images/foodsharing-taiwan-header.jpg"
+teaser                   : "/assets/images/Foodsharing Banner.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
