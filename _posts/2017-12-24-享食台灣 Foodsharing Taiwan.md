@@ -19,6 +19,16 @@ categories : blog
 
 如果您願意提供不同形式的協助，歡迎直接私訊我們！
 
+[德國拯救剩食運動擴散來台 「享食台灣」正發芽 2018年02月21日](https://e-info.org.tw/node/209979)
+
+[ 惜食運動 用肚皮救地球 / China Times/ 2016年05月22日](http://www.chinatimes.com/newspapers/20160522000308-260114)
+
+[社區冰箱不分你我 大家一起來惜食/ peopo/ 2016.08.18](https://www.peopo.org/news/317337)
+
+[《小O事件簿》EP76：食物被浪費了!!](https://www.youtube.com/watch?v=UYdom22VnFI&t=850s)
+
+
+
 [享食台灣 Foodsharing Taiwan](https://www.facebook.com/foodsharingtaiwan) on Facebook!
 
 {% include youtubePlayer.html id='ScsPIK9NJ1U?start=312&end=478&version=3' %}
