@@ -25,7 +25,7 @@ categories : blog
 
 [社區冰箱不分你我 大家一起來惜食 peopo 2016年08月18日](https://www.peopo.org/news/317337)
 
-[《小O事件簿》EP76：食物被浪費了!! 19年11月2016日](https://www.youtube.com/watch?v=UYdom22VnFI&t=850s)
+[《小O事件簿》EP76：食物被浪費了!! 19年11月2016日](https://youtu.be/UYdom22VnFI?t=586)
 
 
 
